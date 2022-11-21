@@ -3,7 +3,7 @@
 using namespace std;
 
 int sum(int nbr) {
-  int idx, _sum = 0;
+  int _sum = 0;
   for (int idx = 0; idx < nbr; idx++) {
     _sum += (idx + 1);
   }

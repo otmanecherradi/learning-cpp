@@ -8,6 +8,7 @@
 - Tables
 - Structures
 - Classes
+- Inheritance
 
 ### Extras
 
