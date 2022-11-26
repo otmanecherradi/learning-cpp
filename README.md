@@ -9,6 +9,7 @@
 - Structures
 - Classes
 - Inheritance
+- Lists & Iterators
 
 ### Extras
 
